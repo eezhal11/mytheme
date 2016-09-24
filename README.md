@@ -1,3 +1,3 @@
-This is readme file.
+# Awesome HTML &amp; CSS
 
-<code>Noobs readme goes here</code>
+> This is repo for learn gitflow
